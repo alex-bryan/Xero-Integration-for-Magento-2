@@ -1,6 +1,6 @@
 <img src="https://www.fmeextensions.com/media/catalog/product/cache/1/image/500x416/9df78eab33525d08d6e5fb8d27136e95/x/e/xxero-integration-m2.jpg.pagespeed.ic.fXv5gLZvT5.webp">
 
-Xero Integratoin Extension for Magento 2 is a <a href="https://www.fmeextensions.com/magento-2-xero-integration-extension.html">Magento 2 Xero Integration-Online Accounting Extension</a> allows you to integrate your Online Store with Xero Integration Application.. The extension make easy to pulling data together between Xero Application and your Online Store. After providing some details you can initiate exporting records to the accounting software. 
+<a href="https://www.fmeextensions.com/magento-2-xero-integration-extension.html">Magento 2 Xero Integration-Online Accounting Extension</a> allows you to integrate your Online Store with Xero Integration Application.The extension make easy to pulling data together between Xero Application and your Online Store. After providing some details you can initiate exporting records to the accounting software. 
 
 <b>Powerful Key Features</b>
 
